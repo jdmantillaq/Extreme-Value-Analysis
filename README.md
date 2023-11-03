@@ -1,4 +1,9 @@
-# A Beginner's Guide to Carry out Extreme Value Analysis with Codes in Python
-A beginner's guide to carry out extreme value analysis, which consists of basic steps, multiple distribution fitting, confidential intervals, IDF/DDF, and a simple application of DDF for roof drainage design.
+# Extreme Value Analysis
 
-Although this guide mainly focues on extreme rainfall analysis, it is also suitable for other climatic variables such as temperature and wind speed.
+  This beginner's guide provides comprehensive instructions for performing Extreme Value Analysis (EVA), a crucial technique in statistical hydrology and climatology. It serves as an updated version of a previous repository by [royalosyin](https://github.com/royalosyin/A-Beginner-Guide-to-Carry-out-Extreme-Value-Analysis-with-Codes-in-Python), ensuring compatibility with Python3 and lmoments3.
+
+Whether you are interested in extreme rainfall analysis or working with other climatic variables such as temperature and wind speed, this guide equips you with the knowledge and code examples needed for your EVA endeavors.
+
+
+`lmoments3` can be installed by:
+* `pip install lmoments3`
