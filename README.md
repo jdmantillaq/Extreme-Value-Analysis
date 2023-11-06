@@ -6,12 +6,14 @@ Whether you are interested in extreme rainfall analysis or working with other cl
 
 
 ## Examples
-<figure style="text-align: center;">
-Among the functionalities, it is possible to adapt the data to different extreme distributions:
 
+Among the functionalities, it is possible to adapt the data to different extreme distributions:
+<figure style="text-align: center;">
 <img src="figures/distributions.png" alt="Distributions" width="500"/>
+</figure>
 
 As well as calculating confidence intervals for a given distribution:
+<figure style="text-align: center;">
 <img src="figures/confidence_intervals.png" alt="Confidence_Intervals" width="500"/>
 </figure>
 
