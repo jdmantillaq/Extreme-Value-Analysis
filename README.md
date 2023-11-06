@@ -7,12 +7,26 @@ Whether you are interested in extreme rainfall analysis or working with other cl
 
 ## Examples
 
-Among the functionalities, it is possible to adapt the data to different extreme distributions:
+Among the functionalities, it is possible to adapt the data to different extreme distributions (`2_extremeMultipleDistributions`):
+
+* Exponential (EXP)
+* Gamma (GAM)
+* Generalised Extreme Value (GEV)
+* Generalised Logistic (GLO)
+* Generalised Normal (GNO)
+* Generalised Pareto (GPA)
+* Gumbel (GUM)
+* Kappa (KAP)
+* Normal (NOR)
+* Pearson III (PE3)
+* Wakeby (WAK)
+* Weibull (WEI)
+
 <figure style="text-align: center;">
 <img src="figures/distributions.png" alt="Distributions" width="500"/>
 </figure>
 
-As well as calculating confidence intervals for a given distribution:
+As well as calculating confidence intervals for a given distribution (`3_extremeConfidenceIntervals`):
 <figure style="text-align: center;">
 <img src="figures/confidence_intervals.png" alt="Confidence_Intervals" width="500"/>
 </figure>
