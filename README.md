@@ -7,7 +7,7 @@ Whether you are interested in extreme rainfall analysis or working with other cl
 
 ## Examples
 
-Among the functionalities, it is possible to adapt the data to different extreme distributions (`2_extremeMultipleDistributions`):
+Among the functionalities, it is possible to adapt the data to different extreme distributions [2_extremeMultipleDistributions](2_extremeMultipleDistributions.ipynb):
 
 * Exponential (EXP)
 * Gamma (GAM)
@@ -26,7 +26,7 @@ Among the functionalities, it is possible to adapt the data to different extreme
 <img src="figures/distributions.png" alt="Distributions" width="500"/>
 </figure>
 
-As well as calculating confidence intervals for a given distribution (`3_extremeConfidenceIntervals`):
+As well as calculating confidence intervals for a given distribution [`3_extremeConfidenceIntervals`](3_extremeConfidenceIntervals.ipynb):
 <figure style="text-align: center;">
 <img src="figures/confidence_intervals.png" alt="Confidence_Intervals" width="500"/>
 </figure>
