@@ -5,5 +5,16 @@
 Whether you are interested in extreme rainfall analysis or working with other climatic variables such as temperature and wind speed, this guide equips you with the knowledge and code examples needed for your EVA endeavors.
 
 
+## Examples
+
+Among the functionalities, it is possible to adapt the data to different extreme distributions:
+<img src="figures/distributions.png" alt="Distributions" width="400"/>
+
+As well as calculating confidence intervals for a given distribution:
+<img src="figures/confidence_intervals.png" alt="Confidence_Intervals" width="400"/>
+
+
+## Modules
+
 `lmoments3` can be installed by:
 * `pip install lmoments3`
