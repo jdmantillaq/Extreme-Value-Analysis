@@ -33,5 +33,11 @@ As well as calculating confidence intervals for a given distribution [`3_extreme
 
 ## Modules
 
-`lmoments3` can be installed by:
+`lmoments3` and `lmfit` can be installed by:
 * `pip install lmoments3`
+* `pip install lmfit`
+
+
+### Notes:
+
+The implementation of the [`5_extremeIDF`](5_extremeIDF.ipynb) file, could not be updated in python3 and was left as the original file.
